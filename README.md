@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my startup idea [U-store](http://you-store.netlify.app/)
 
-- 👨‍💻 Have a look at my portfolio [http://shubhamm.in/](http://shubhamm.in/)
+- 👨‍💻 Have a look at my portfolio [shubhamm.in](http://shubhamm.in/)
 
 - 💬 Ask me about **ReactJS/Redux + NodeJS/ExpressJS + HTML/CSS**
 
