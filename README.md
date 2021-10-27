@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsks619&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsks619" /> </p>
 
-- 🔭 I’m currently working on [U-store](http://you-store.netlify.app/)
+- 🔭 I’m currently working on my startup idea [U-store](http://you-store.netlify.app/)
 
 - 👨‍💻 Have a look at my portfolio [http://shubhamm.in/](http://shubhamm.in/)
 
