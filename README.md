@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kumarsks619@gmail.com**
 
-- 📄 See my resume [https://bit.ly/kumarsks619](https://bit.ly/kumarsks619)
+- 📄 See my resume [https://drive.google.com/file/d/1D9fU8sOfLDYQQ456CCoAnK2Lxp4GXBmi/view?usp=sharing](https://drive.google.com/file/d/1D9fU8sOfLDYQQ456CCoAnK2Lxp4GXBmi/view?usp=sharing)
 
 - ⚡ I love to play **Football⚽**
 
