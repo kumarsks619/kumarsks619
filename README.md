@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A mechanical engineer by degree but a full-stack web developer by passion as well as profession.</h3>
+<h3 align="center">A Mechanical Engineer by degree but a Software Engineer by passion as well as profession.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsks619&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsks619" /> </p>
 
