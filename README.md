@@ -7,7 +7,7 @@
 
 - 👨‍💻 Have a look at my portfolio [shubhamm.in](http://shubhamm.in/)
 
-- 💬 Ask me about **ReactJS/Redux + NodeJS/ExpressJS + HTML/CSS**
+- 💬 Ask me about **ReactJS/Redux + VueJS/Vuex + HTML/CSS**
 
 - 📫 How to reach me **kumarsks619@gmail.com**
 
